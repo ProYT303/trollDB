@@ -2,6 +2,7 @@
 Just a simple json database project made by Walter.
 
 ### Example code
+
 ```py
     import trolldb
 
