@@ -2,7 +2,7 @@
 Just a simple json database project made by Walter.
 
 ### Example code
-
+```py
     import trolldb
 
 
@@ -13,3 +13,4 @@ Just a simple json database project made by Walter.
     database.setvariable(v, '{0}'.format(v)) # sets variable in the database
     print(database.getvariable(v)) # get variable 
     print(database.getplainjson()) # prints the whole json
+```
